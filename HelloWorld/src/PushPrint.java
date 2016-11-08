@@ -6,11 +6,12 @@ public class PushPrint {
 
 		System.out.println("Add java class file push");
 		System.out.println("World with 365");
-<<<<<<< HEAD
+
 		System.out.println("Local master");
-=======
+
 		System.out.println("remote master");
->>>>>>> refs/remotes/origin/master
+		system.out.println("world with github");
+
 	}
 
 }
